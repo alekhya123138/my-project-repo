@@ -1,2 +1,2 @@
-# my-project-repo
-leanring Github with devops
+# my-first-repo
+Leanring Github with DevOps
